@@ -1,6 +1,6 @@
 ##    नमस्ते 👋, I'm Abhinav Kumar!
 
-Full-Stack Developer • Open Source Contributor • AI Builder from India 🇮🇳
+Full-Stack Developer • Open Source Contributor • AI & ML enthusiast 🇮🇳
 
 ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
@@ -20,8 +20,6 @@ I enjoy building impactful software that solves real-world problems, from AI-pow
 
 Building AI-powered and developer-focused applications.
 
- Passionate about full-stack development, problem-solving, and software engineering.
-
 Actively contributing to open-source projects and collaborating with developers worldwide.
 
- Always exploring new technologies and turning ideas into products.
+Always exploring new technologies and turning ideas into products.
