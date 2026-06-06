@@ -2,14 +2,22 @@
 
 Full-Stack Developer • Open Source Contributor • AI Builder from India 🇮🇳
 
-![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square)
-![React](https://img.shields.io/badge/Library-React-blue?style=flat-square)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-green?style=flat-square)
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square)
-![Git](https://img.shields.io/badge/Tool-Git-red?style=flat-square)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=flat-square)
+![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/Library-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Cloud-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square)
+![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-FF69B4?style=flat-square)
 
 I enjoy building impactful software that solves real-world problems, from AI-powered applications to developer tools and healthcare solutions. My focus is on creating scalable, user-friendly products while continuously learning and contributing to the open-source community.
 
