@@ -15,6 +15,13 @@ Full-Stack Developer • Open Source Contributor • AI & ML enthusiast 🇮🇳
 ![Vercel](https://img.shields.io/badge/Cloud-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square)
 ![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-FF69B4?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Library-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![pnpm](https://img.shields.io/badge/Tool-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Expo](https://img.shields.io/badge/Framework-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 I enjoy building impactful software that solves real-world problems, from AI-powered applications to developer tools and healthcare solutions. My focus is on creating scalable, user-friendly products while continuously learning and contributing to the open-source community.
 
