@@ -1,6 +1,6 @@
 ##    नमस्ते 👋, I'm Abhinav Kumar!
 
-Full-Stack Developer • Open Source Contributor • AI & ML enthusiast 🇮🇳
+Full-Stack Developer • Open Source Contributor • AI & ML enthusiast • 🇮🇳
 
 ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
