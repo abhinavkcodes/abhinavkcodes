@@ -10,12 +10,9 @@ Full-Stack Developer • Open Source Contributor • AI Builder from India 🇮�
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
 ![Vercel](https://img.shields.io/badge/Cloud-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square)
 ![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-FF69B4?style=flat-square)
 
